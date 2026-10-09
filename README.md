@@ -67,7 +67,3 @@ Sum: 75
 - Rust
 - TCP sockets
 - Cargo
-
-## Author
-
-Ranveer Kaurgit add README.md
