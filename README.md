@@ -1,12 +1,12 @@
-# Rust TCP Socket Programming
+# Course Deliverable 1: TCP Socket Programming
 
-A simple client-server application written in Rust for Programming Assignment 1: Socket Programming.
+**Course:** Essentials of Health Informatics
 
-## About the Project
+## About
 
-This project demonstrates TCP socket communication between a client and a server using Rust's standard networking library.
+This project implements a TCP client-server application in Rust as part of Course Deliverable 1 for Essentials of Health Informatics.
 
-The client sends its name and an integer to the server. The server responds with its name and an integer. Both programs display the numbers and calculate their sum.
+The client accepts an integer from the keyboard and sends its name and number to the server. The server responds with its name and a number of its choice. Both programs display the names, numbers, and their sum.
 
 ## Features
 
